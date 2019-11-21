@@ -1,0 +1,3 @@
+---
+- tasks
+  - ../roles/provision_vm
